@@ -1,0 +1,24 @@
+attrs==21.4.0
+certifi==2021.10.8
+click==8.0.3
+click-plugins==1.1.1
+cligj==0.7.2
+colorama==0.4.4
+Fiona @ file:///C:/Users/Walter/Desktop/scratch/python_env_talk/wheel/Fiona-1.8.20-cp38-cp38-win_amd64.whl
+GDAL @ file:///C:/Users/Walter/Desktop/scratch/python_env_talk/wheel/GDAL-3.4.1-cp38-cp38-win_amd64.whl
+geopandas==0.10.2
+kepler.py==0.0.6
+munch==2.5.0
+numpy==1.22.1
+packaging==21.3
+pandas==1.4.0
+pybind11==2.9.0
+pyparsing==3.0.7
+pyproj==3.3.0
+python-dateutil==2.8.2
+pytz==2021.3
+Rtree==0.9.7
+setuptools-scm==6.4.2
+Shapely==1.8.0
+six==1.16.0
+tomli==2.0.0
